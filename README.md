@@ -1,4 +1,4 @@
-# devTinder
+# byteSocial
 
 A Node.js/Express + MongoDB backend for a "Tinder for developers"-style social/matching app. It handles user authentication, profile management, connection requests (swipe-style interest/ignore, accept/reject), a real-time chat system via Socket.IO, and premium memberships powered by Razorpay.
 
@@ -27,7 +27,7 @@ A Node.js/Express + MongoDB backend for a "Tinder for developers"-style social/m
 ## Project Structure
 
 ```
-devTinder/
+byteSocia;/
 ├── src/
 │   ├── app.js                     # Express app entry point, route mounting, server startup
 │   ├── config/
