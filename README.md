@@ -68,7 +68,7 @@ byteSocial/
 
 ```bash
 git clone https://github.com/mahra-ms/devTinder.git
-cd devTinder
+cd byteSocial
 npm install
 ```
 
