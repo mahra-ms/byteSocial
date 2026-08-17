@@ -27,7 +27,7 @@ A Node.js/Express + MongoDB backend for a "Tinder for developers"-style social/m
 ## Project Structure
 
 ```
-byteSocia;/
+byteSocia/
 ├── src/
 │   ├── app.js                     # Express app entry point, route mounting, server startup
 │   ├── config/
